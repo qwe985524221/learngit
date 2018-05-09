@@ -1,0 +1,7 @@
+﻿{
+
+	"regist_module":"true",
+    "gameModelSwitchMap":{
+		"10000":"{\"gameOpenList\":[20001,10007,10006,10008,10019,10039],\"billingOpenList\":[1,2]}"
+	}
+}

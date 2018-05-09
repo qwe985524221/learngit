@@ -1,0 +1,18 @@
+﻿{
+    "version":"1.2.33",
+    "checkVersionList":"100070",
+    "checkFlag": true,
+    "rechargeComfirmSwitch":false,
+    "newBeeCash": 0,
+    "defaultCity":0,
+    "smsTimeout":60,
+    "cashLimitOpen":false,
+    "testBilling":true,
+    "PlayLostCashLimit":500000,
+    "PlayWinCashLimit":500000,
+    "RoomLostCashLimit":10000000,
+    "RoomWinCashLimit":10000000,
+    "DayLostCashLimit":10000000,
+    "DayWinCashLimit":10000000,
+    "privateRoomDiamond":12
+}

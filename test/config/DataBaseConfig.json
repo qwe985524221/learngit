@@ -1,0 +1,14 @@
+﻿{
+	"address":"127.0.0.1",
+	"port":"3306",
+	"dbName":"nn_dev",
+	"billingDbName":"nn_chargecenter",
+	"logDbName":"nn_log",
+	"dictDbName":"nn_dict",
+	"mpDbName":"nn_mp",
+	"userName":"root",
+	"passwd":"123456",
+	"dbMaxconn":"2",
+	"dbFallow":"1",
+	"charSet":"utf-8"
+}

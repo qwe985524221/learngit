@@ -1,0 +1,22 @@
+{
+	"roundExp":10,
+	"dealerExpEx":10;
+    "playerExpEx":5,
+    "lossPercentMap":{
+	"noBull":1,
+	"bull1":1,
+	"bull2":1,
+	"bull3":1,
+	"bull4":1,
+	"bull5":1,
+	"bull6":1,
+	"bull7":2,
+	"bull8":2,
+	"bull9":2,
+	"bullBull":3,
+	"bomb":3,
+	"fiveFlowerBull":3,
+	"fiveLittleBull":3
+	},
+	"enabledRobot":true
+}

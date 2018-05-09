@@ -1,0 +1,6 @@
+﻿{
+    "ImageURL":"http://192.168.0.3:1090/images/",
+    "HeadImgURL": "http://192.168.0.3:1090/headimg/",
+    "GameZipURL": "http://192.168.0.25:1090/gameZip/",
+	"RecordURL": "http://192.168.1.103:1090/pyjrecord/"
+}

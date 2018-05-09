@@ -1,0 +1,23 @@
+﻿{
+    "needZiplog": false,
+    "rechargeComfirmSwitch": false,
+    "ddzSupotPublic":false,
+    "ddzAwaysGrab":false,
+	"mjTestCard":true,
+	"testModel":true,
+    "inviteRoomMaxId":9999,
+	"robBankerTime":8,
+	"betTime":8,
+	"openTime":12,
+	"roomWait":10,
+	"robBankerTimeComp":15,
+	"betTimeComp":15,	
+	"openTimeComp":15,
+	"roomWaitComp":15,
+    "gameDesktopClassNameMap":{
+	    "10071":"com.dszy.game.gamelogic.majong.zhuanzhuan.ZhuanZhuanFSM",
+		"10073":"com.dszy.game.gamelogic.majong.newhongzhong.NewHongZhongFSM",
+		"10075":"com.dszy.game.gamelogic.pdk.desktop.PDKDesktop"
+	}
+
+}
